@@ -15,3 +15,9 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SASS-pink?color=%23ff009b" alt="SASS" />
 
+**Frameworks & Libraries:**
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
