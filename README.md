@@ -8,11 +8,10 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ## 💻 Tech Stack
 
 ### 🖥️ Frontend Development  
-**Languages & Markup:**  
-<p>
+**Languages & Markup:** 
   <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-%2300a6ff?color=%2300a6ff" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SASS-pink?color=%23ff009b" alt="SASS" />
-</p>
+
