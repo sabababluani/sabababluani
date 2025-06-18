@@ -5,8 +5,8 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 
 ---
 
-## 💻 Tech Stack
-
+💻 Tech Stack
+<hr />
 ### 🖥️ Frontend Development  
 **Languages & Markup:** 
   <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript" />
@@ -57,3 +57,31 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 **Version Control:**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+## 🔥 Work Experience
+
+### FullStack Developer | Novatori - Digital Professions Academy (2024 – 2025)
+- Built scalable frontend apps using **Next.js** and **Nest.js**.
+- Mentored students and junior developers by breaking down complex front-end and back-end concepts, assisting with JavaScript algorithms, and providing guidance in Next.js, and Nest.js. Additionally, I managed and aligned pull requests to ensure smooth development workflows for students's projects.
+- Contributed to the development and maintenance of the Novatori learning portal, working with legacy code to improve performance and maintainability. Utilized React, Next.js, JavaScript, HTML, and SCSS to enhance the user experience and ensure a seamless platform.
+
+## 🚀 Projects
+**📌 Premium WordPress Hosting Provider**
+- Developed a multi-tenant, high-performance WordPress hosting platform with Next.js, Chart.js.
+- Serve as Tech Lead for a premium WordPress hosting platform, overseeing a multidisciplinary team including UI/UX designers, backend developers, graphic designers, and marketers.
+- Ensure seamless collaboration across teams to optimize productivity and deliver high-quality solutions.
+- Drive the development of features focused on simplifying WordPress management for users.
+- Implement pixel-perfect designs to ensure the platform matches the exact UI/UX specifications.
+  
+**🎵 Music Streaming Website**
+- Developed the frontened for a Spotify-like music streaming platform.
+- Implemented user authentication, music player playlist and all core music content using middleware, recoil techs.
+- Held responsibility for 50% of the tasks on a musical application, focusing on core development features.
+
+## 🏆 Leadership & Team Management
+**Frontend Developer & Team Lead | Premium WordPress Hosting Provider && Music Streaming Website (2024 – 2025)**
+- Managed project tasks and workflows using Jira and Monday.com.
+- Facilitated daily team syncs to ensure alignment and address any roadblocks.
+<hr />
+
+
