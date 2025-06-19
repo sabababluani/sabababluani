@@ -5,7 +5,7 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 
 ---
 
-## 💻 Tech Stack
+## <h1>💻 Tech Stack<h1 />
 
 **🖥️ Frontend Development**
 
@@ -89,7 +89,7 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saba-babluani-642835303/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saba-babluani-642835303/) <br />
 📧 Email: Sababablo@gmail.com
 Let's collaborate and build amazing projects together! 🚀
 
