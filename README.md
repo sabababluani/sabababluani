@@ -88,3 +88,8 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 <hr />
 
 
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saba-babluani-642835303/)
+📧 Email: Sababablo@gmail.com
+Let's collaborate and build amazing projects together! 🚀
+
