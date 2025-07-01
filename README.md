@@ -1,5 +1,4 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
 ## Hi there, I'm Saba! 👋
 
@@ -71,6 +70,8 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 - Built scalable frontend apps using **Next.js** and **Nest.js**.
 - Mentored students and junior developers by breaking down complex front-end and back-end concepts, assisting with JavaScript algorithms, and providing guidance in Next.js, and Nest.js. Additionally, I managed and aligned pull requests to ensure smooth development workflows for students's projects.
 - Contributed to the development and maintenance of the Novatori learning portal, working with legacy code to improve performance and maintainability. Utilized React, Next.js, JavaScript, HTML, and SCSS to enhance the user experience and ensure a seamless platform.
+
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
 ## 🚀 Projects
 **📌 Premium WordPress Hosting Provider**
