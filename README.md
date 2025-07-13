@@ -51,7 +51,6 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 
 ## 🗃️ Databases & ORMs
 **Databases:**
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 **ORMs (Object-Relational Mapping):**
