@@ -116,5 +116,10 @@ Let's collaborate and build amazing projects together! 🚀 <br />
   <source media="(prefers-color-scheme: light)" srcset="https://your-cdn-or-github-link.com/hacker-cat-light.svg">
   <img alt="Hacker cat contribution graph" src="https://your-cdn-or-github-link.com/hacker-cat-light.svg">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://your-cdn-or-github-link.com/tetris-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://your-cdn-or-github-link.com/tetris-graph-light.svg">
+  <img alt="Tetris-style contribution graph" src="https://your-cdn-or-github-link.com/tetris-graph-light.svg">
+</picture>
 
 </p>
