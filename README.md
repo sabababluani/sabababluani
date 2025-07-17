@@ -99,4 +99,16 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 Let's collaborate and build amazing projects together! 🚀 <br />
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sabababluani)
-
+<p>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/pacman-contribution-graph-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/pacman-contribution-graph.svg">
+          <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/pacman-contribution-graph.svg">
+        </picture>
+        <br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake.svg">
+          <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake.svg">
+        </picture>
+</p>
