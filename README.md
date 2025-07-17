@@ -111,4 +111,10 @@ Let's collaborate and build amazing projects together! 🚀 <br />
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake.svg">
           <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake.svg">
         </picture>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://your-cdn-or-github-link.com/hacker-cat-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://your-cdn-or-github-link.com/hacker-cat-light.svg">
+  <img alt="Hacker cat contribution graph" src="https://your-cdn-or-github-link.com/hacker-cat-light.svg">
+</picture>
+
 </p>
