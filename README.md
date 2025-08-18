@@ -55,6 +55,7 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 
 **ORMs (Object-Relational Mapping):**
 ![TypeORM](https://img.shields.io/badge/TypeORM-2E72D2?logo=typeorm&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 
 ## 🛠️ Tools & Version Control
 **Version Control:**
