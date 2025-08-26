@@ -84,7 +84,7 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 - Containerized the platform using Docker & Docker Compose for consistent development and deployment across environments.
 - Leveraged a monorepo architecture (Turborepo + pnpm) to streamline development workflows, code sharing, and CI/CD pipelines.
 - Contributed to end-to-end delivery, from database modeling and API design to frontend UI/UX and authentication flows.
-- 
+
 **📌 Premium WordPress Hosting Provider**
 - Developed a multi-tenant, high-performance WordPress hosting platform with Next.js, Chart.js.
 - Serve as Tech Lead for a premium WordPress hosting platform, overseeing a multidisciplinary team including UI/UX designers, backend developers, graphic designers, and marketers.
