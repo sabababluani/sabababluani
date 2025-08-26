@@ -83,7 +83,6 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 - Integrated Clerk authentication with secure role-based access (patients, doctors, moderators), ensuring compliance-ready user management.
 - Containerized the platform using Docker & Docker Compose for consistent development and deployment across environments.
 - Leveraged a monorepo architecture (Turborepo + pnpm) to streamline development workflows, code sharing, and CI/CD pipelines.
-- Contributed to end-to-end delivery, from database modeling and API design to frontend UI/UX and authentication flows.
 
 **📌 Premium WordPress Hosting Provider**
 - Developed a multi-tenant, high-performance WordPress hosting platform with Next.js, Chart.js.
