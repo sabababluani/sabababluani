@@ -43,6 +43,7 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST--API-00BCD4?logo=fastapi&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+![Clerk](https://img.shields.io/badge/Clerk-000000?logo=clerk&logoColor=white)
 
 ## ☁️ DevOps & Cloud
 **Cloud Platforms & Services:**
