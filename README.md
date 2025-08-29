@@ -24,8 +24,8 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 
 **State Management:**
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?logo=data:image)
-![Zustand](https://img.shields.io/badge/Zustand-%230865ad?logo=zustand&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?logo=recoil&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-2D3748?logo=zustand&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 
 **Styling:**
