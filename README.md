@@ -14,7 +14,7 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-pink?color=%23ff009b)
+![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white)
 
 **Frameworks & Libraries:**
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
