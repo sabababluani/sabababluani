@@ -36,7 +36,7 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white)
 
 ## ⚙️ Backend Development
-**Runtime & Environment:** [Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+**Runtime & Environment:**[Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
 **Frameworks:**
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
