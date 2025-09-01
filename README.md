@@ -38,6 +38,7 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ## ⚙️ Backend Development
 **Frameworks:**
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 
 **Authentication & APIs:**
 ![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white)
