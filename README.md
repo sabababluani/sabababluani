@@ -1,12 +1,11 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-## <h1>Hi there, I'm Saba! 👋</h1>
+<h1>Hi there, I'm Saba! 👋</h1>
 
 ## About Me
 I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise in building efficient frontend applications and robust backend systems. I specialize in developing high-performance solutions using technologies like Next.js and NestJS and many more. Also I enjoy working with large language models (LLMs) and modern database systems. I thrive on solving complex problems and optimizing system performance for scalability and reliability.
 
 ## <h1>Tech Stack</h1>
-
 
 ## 🖥️ Frontend Development
 
