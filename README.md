@@ -7,7 +7,6 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 
 ## <h1>Tech Stack</h1>
 
-
 ## 🖥️ Frontend Development
 
 **Languages & Markup:** 
