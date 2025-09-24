@@ -73,7 +73,7 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ![Husky](https://img.shields.io/badge/Husky-1d4f2f?logo=git&logoColor=white)
 
 **AI / Machine Learning:**
-![Mastra](https://img.shields.io/badge/Mastra-1d4f2f?logo=typescript&logoColor=white)
+![Mastra](https://img.shields.io/badge/Mastra-1d4f2f?)
 
 ## 🔥 Work Experience
 
