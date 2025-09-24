@@ -53,6 +53,8 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 **Cloud Platforms & Services:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![ngrok](https://img.shields.io/badge/ngrok-14A9FF?logo=ngrok&logoColor=white)
 
 ## 🗃️ Databases & ORMs
 **Databases:**
