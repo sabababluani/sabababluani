@@ -48,6 +48,7 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-000000?logo=clerk&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-000000?logo=passport&logoColor=white)
 
 ## ☁️ DevOps & Cloud
 **Cloud Platforms & Services:**
