@@ -51,6 +51,9 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ![Clerk](https://img.shields.io/badge/Clerk-000000?logo=clerk&logoColor=white)
 ![Passport.js](https://img.shields.io/badge/Passport.js-000000?logo=passport&logoColor=white)
 
+**💳 Payment Processing & Integrations:**
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+
 ## ☁️ DevOps & Cloud
 **Cloud Platforms & Services:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
@@ -75,9 +78,6 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 
 **Git Hooks & Automation:**
 ![Husky](https://img.shields.io/badge/Husky-1d4f2f?logo=git&logoColor=white)
-
-**💳 Payment Processing & Integrations:**
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
 
 ## 🔥 Work Experience
 
