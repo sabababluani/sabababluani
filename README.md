@@ -76,6 +76,9 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 **Git Hooks & Automation:**
 ![Husky](https://img.shields.io/badge/Husky-1d4f2f?logo=git&logoColor=white)
 
+**💳 Payment Processing & Integrations:**
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+
 ## 🔥 Work Experience
 
 ### FullStack Developer | Novatori - Digital Professions Academy (2024 – 2025)
