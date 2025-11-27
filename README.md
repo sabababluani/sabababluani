@@ -31,6 +31,7 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 **Styling:**
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?logo=ant-design&logoColor=white&labelColor=0170FE)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?logo=shadcnui&logoColor=white)
 
 **Data Visualization:**
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white)
