@@ -7,8 +7,6 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 
 ## <h1>Tech Stack</h1>
 
-## 🖥️ Frontend Development
-
 **Languages & Markup:** 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -36,7 +34,6 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 **Data Visualization:**
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white)
 
-## ⚙️ Backend Development
 **Runtime & Environment:** ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
 
 **Frameworks:**
@@ -54,14 +51,12 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 **Payment Processing & Integrations:**
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
 
-## ☁️ DevOps & Cloud
 **Cloud Platforms & Services:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![ngrok](https://img.shields.io/badge/ngrok-14A9FF?logo=ngrok&logoColor=white)
 
-## 🗃️ Databases & ORMs
 **Databases:**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
@@ -70,7 +65,6 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ![TypeORM](https://img.shields.io/badge/TypeORM-2E72D2?logo=typeorm&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 
-## 🛠️ Tools & Version Control
 **Version Control:**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
