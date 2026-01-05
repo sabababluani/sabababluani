@@ -86,7 +86,7 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 **🧬 ImmunoMap – Immune System Mapping & Patient Data Platform**
 
 - Developed a full-stack healthcare application enabling immune system mapping, patient data management, and interactive visualization of medical insights.
-- Built a NestJS + Prisma API with PostgreSQL (PostGIS) for spatial health data, ensuring robust and scalable backend architecture.
+- Built a NestJS + Prisma API with PostgreSQL for spatial health data, ensuring robust and scalable backend architecture.
 - Designed and implemented the Next.js frontend with TypeScript, Tailwind CSS, and shadcn/ui for responsive and modern user interfaces.
 - Integrated Clerk authentication with secure role-based access (patients, doctors, moderators), ensuring compliance-ready user management.
 - Containerized the platform using Docker & Docker Compose for consistent development and deployment across environments.
