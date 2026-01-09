@@ -35,9 +35,8 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 
 **Data Visualization:**
 ![Chart.js](https://go-skill-icons.vercel.app/api/icons?i=chartjs)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white)
 
-**Runtime & Environment:** ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+**Runtime & Environment:** ![Node.js](https://go-skill-icons.vercel.app/api/icons?i=nodejs)
 
 **Authentication & APIs:**
 ![TailwindCSS](https://go-skill-icons.vercel.app/api/icons?i=jwt)
