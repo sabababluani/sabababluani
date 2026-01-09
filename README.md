@@ -22,6 +22,8 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ![Nest.js](https://go-skill-icons.vercel.app/api/icons?i=nestjs) 
 ![Express.js](https://go-skill-icons.vercel.app/api/icons?i=expressjs) 
 
+<img align="right" src="https://camo.githubusercontent.com/e48401e4018d3287d387998dcbdd928fbe90d0a686ea201ac1dc58f00e5d85c9/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67" width="300" height="300">
+
 **State Management:** 
 ![Recoil](https://go-skill-icons.vercel.app/api/icons?i=recoil)
 ![Zustand](https://go-skill-icons.vercel.app/api/icons?i=zustand)
@@ -46,9 +48,6 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 
 **Payment Processing & Integrations:** 
 ![Stripe](https://go-skill-icons.vercel.app/api/icons?i=stripe) 
-
-<img align="right" src="https://camo.githubusercontent.com/e48401e4018d3287d387998dcbdd928fbe90d0a686ea201ac1dc58f00e5d85c9/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67" width="200" height="200">
-
 
 **Cloud Platforms & Services:** 
 ![AWS](https://go-skill-icons.vercel.app/api/icons?i=aws) 
