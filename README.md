@@ -20,6 +20,11 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white)
 
 **Frameworks & Libraries:**
+![React](https://go-skill-icons.vercel.app/api/icons?i=react)
+![Angular](https://go-skill-icons.vercel.app/api/icons?i=angular)
+![Next.js](https://go-skill-icons.vercel.app/api/icons?i=nextjs)
+![Expo](https://go-skill-icons.vercel.app/api/icons?i=expo)
+![React Native](https://go-skill-icons.vercel.app/api/icons?i=reactnative)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
@@ -37,6 +42,7 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?logo=shadcnui&logoColor=white)
 
 **Data Visualization:**
+![Chart.js](https://go-skill-icons.vercel.app/api/icons?i=chartjs)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white)
 
 **Runtime & Environment:** ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
