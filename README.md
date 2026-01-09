@@ -9,6 +9,10 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 
 **Languages & Markup:** 
 ![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js)
+![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts)
+![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)
+![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)
+![SASS](https://go-skill-icons.vercel.app/api/icons?i=sass)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
