@@ -6,147 +6,124 @@
 I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise in building efficient frontend applications and robust backend systems. I specialize in developing high-performance solutions using technologies like Next.js and NestJS and many more. Also I enjoy working with large language models (LLMs) and modern database systems. I thrive on solving complex problems and optimizing system performance for scalability and reliability.
 
 ## <h1>Tech Stack</h1>
-<div align="center">
+<h2 align="center">Languages & Markup</h2>
 
-## Languages & Markup
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=js" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ts" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=css" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sass" />
-
-</div>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=css" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sass" />
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">Frameworks & Libraries</h2>
 
-## Frameworks & Libraries
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=angular" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=expo" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs" />
-
-</div>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=angular" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=expo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs" />
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">State Management</h2>
 
-## State Management
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=recoil" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=zustand" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=redux" />
-
-</div>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=recoil" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=zustand" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=redux" />
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">Styling</h2>
 
-## Styling
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=antdesign" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" />
-
-</div>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=antdesign" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" />
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">Data Visualization</h2>
 
-## Data Visualization
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=chartjs" />
-
-</div>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chartjs" />
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">Runtime & Environment</h2>
 
-## Runtime & Environment
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" />
-
-</div>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" />
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">Authentication & APIs</h2>
 
-## Authentication & APIs
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=swagger" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=graphql" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=clerk" />
-
-</div>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=clerk" />
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">Payment Processing & Integrations</h2>
 
-## Payment Processing & Integrations
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=stripe" />
-
-</div>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=stripe" />
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">Cloud Platforms & Services</h2>
 
-## Cloud Platforms & Services
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=aws" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=s3" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ngrok" />
-
-</div>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=s3" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ngrok" />
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">Databases</h2>
 
-## Databases
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" />
-
-</div>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" />
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">ORMs</h2>
 
-## ORMs
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=typeorm" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=prisma" />
-
-</div>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=typeorm" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=prisma" />
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">Version Control</h2>
 
-## Version Control
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab" />
+</p>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab" />
-
-</div>
 
 ## 🔥 Work Experience
 
