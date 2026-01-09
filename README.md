@@ -25,6 +25,8 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ![Next.js](https://go-skill-icons.vercel.app/api/icons?i=nextjs)
 ![Expo](https://go-skill-icons.vercel.app/api/icons?i=expo)
 ![React Native](https://go-skill-icons.vercel.app/api/icons?i=reactnative)
+![Nest.js](https://go-skill-icons.vercel.app/api/icons?i=nestjs)
+![Express.js](https://go-skill-icons.vercel.app/api/icons?i=expressjs)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
@@ -40,6 +42,9 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 
 **Styling:**
+![TailwindCSS](https://go-skill-icons.vercel.app/api/icons?i=tailwindcss)
+![Ant Design](https://go-skill-icons.vercel.app/api/icons?i=antdesign)
+![shadcn/ui](https://go-skill-icons.vercel.app/api/icons?i=shadcn)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?logo=ant-design&logoColor=white&labelColor=0170FE)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?logo=shadcnui&logoColor=white)
@@ -55,6 +60,12 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 
 **Authentication & APIs:**
+![TailwindCSS](https://go-skill-icons.vercel.app/api/icons?i=jwt)
+![Swagger](https://go-skill-icons.vercel.app/api/icons?i=swagger)
+![GraphQL](https://go-skill-icons.vercel.app/api/icons?i=graphql)
+![Clerk](https://go-skill-icons.vercel.app/api/icons?i=clerk)
+![Swagger](https://go-skill-icons.vercel.app/api/icons?i=swagger)
+![graphql](https://go-skill-icons.vercel.app/api/icons?i=graphql)
 ![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST--API-00BCD4?logo=fastapi&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
@@ -63,29 +74,38 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ![Passport.js](https://img.shields.io/badge/Passport.js-000000?logo=passport&logoColor=white)
 
 **Payment Processing & Integrations:**
+![Stripe](https://go-skill-icons.vercel.app/api/icons?i=stripe)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
 
 **Cloud Platforms & Services:**
+![AWS](https://go-skill-icons.vercel.app/api/icons?i=aws)
+![S3](https://go-skill-icons.vercel.app/api/icons?i=s3)
+![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker)
+![Ngrok](https://go-skill-icons.vercel.app/api/icons?i=ngrok)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![ngrok](https://img.shields.io/badge/ngrok-14A9FF?logo=ngrok&logoColor=white)
 
 **Databases:**
+![MySQL](https://go-skill-icons.vercel.app/api/icons?i=mysql)
+![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 **ORMs:**
+![TypeORM](https://go-skill-icons.vercel.app/api/icons?i=typeorm)
+![Prisma](https://go-skill-icons.vercel.app/api/icons?i=prisma)
 ![TypeORM](https://img.shields.io/badge/TypeORM-2E72D2?logo=typeorm&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 
 **Version Control:**
+![Git](https://go-skill-icons.vercel.app/api/icons?i=git)
+![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)
+![GitLab](https://go-skill-icons.vercel.app/api/icons?i=gitlab)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
-
-**Git Hooks & Automation:**
-![Husky](https://img.shields.io/badge/Husky-1d4f2f?logo=git&logoColor=white)
 
 ## 🔥 Work Experience
 
