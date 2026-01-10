@@ -6,25 +6,13 @@
 I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise in building efficient frontend applications and robust backend systems. I specialize in developing high-performance solutions using technologies like Next.js and NestJS and many more. Also I enjoy working with large language models (LLMs) and modern database systems. I thrive on solving complex problems and optimizing system performance for scalability and reliability.
 
 ## <h1>Tech Stack</h1>
+
 **Languages & Markup:**
 ![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js)
 ![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts)
 ![HTML](https://go-skill-icons.vercel.app/api/icons?i=html) 
 ![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)
 ![SASS](https://go-skill-icons.vercel.app/api/icons?i=sass)
-
-<div style="display: flex; align-items: center;">
-  <strong>Languages & Markup:</strong>
-
-  <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="JavaScript" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="TypeScript" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="HTML" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="CSS" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=sass" alt="SASS" />
-  </div>
-</div>
-
 
 **Frameworks & Libraries:** 
 ![React](https://go-skill-icons.vercel.app/api/icons?i=react) 
