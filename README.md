@@ -13,6 +13,19 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)
 ![SASS](https://go-skill-icons.vercel.app/api/icons?i=sass)
 
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <strong>Languages & Markup:</strong>
+
+  <div style="display: flex; align-items: center; gap: 8px; margin-top: 8px;">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="JavaScript" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="TypeScript" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="HTML" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="CSS" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=sass" alt="SASS" />
+  </div>
+</div>
+
+
 **Frameworks & Libraries:** 
 ![React](https://go-skill-icons.vercel.app/api/icons?i=react) 
 ![Angular](https://go-skill-icons.vercel.app/api/icons?i=angular) 
