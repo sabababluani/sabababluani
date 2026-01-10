@@ -13,7 +13,7 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)
 ![SASS](https://go-skill-icons.vercel.app/api/icons?i=sass)
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; align-items: center;">
   <strong>Languages & Markup:</strong>
 
   <div style="display: flex; align-items: center; gap: 8px; margin-top: 8px;">
