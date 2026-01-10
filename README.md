@@ -67,7 +67,6 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github) 
 ![GitLab](https://go-skill-icons.vercel.app/api/icons?i=gitlab)
 
-
 ## 🔥 Work Experience
 
 ### FullStack Developer | Novatori - Digital Professions Academy (2024 – 2025)
