@@ -16,7 +16,7 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 <div style="display: flex; align-items: center;">
   <strong>Languages & Markup:</strong>
 
-  <div style="display: flex; align-items: center; gap: 8px; margin-top: 8px;">
+  <div>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="JavaScript" />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="TypeScript" />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="HTML" />
