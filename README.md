@@ -99,13 +99,6 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 - Implemented user authentication, music player playlist and all core music content using middleware, recoil techs.
 - Held responsibility for 50% of the tasks on a musical application, focusing on core development features.
 
-## Leadership & Team Management
-**Frontend Developer & Team Lead | Premium WordPress Hosting Provider && Music Streaming Website (2024 – 2025)**
-- Managed project tasks and workflows using Jira and Monday.com.
-- Facilitated daily team syncs to ensure alignment and address any roadblocks.
-<hr />
-
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saba-babluani-642835303/) <br />
 📧 Email: Sababablo@gmail.com <br />
