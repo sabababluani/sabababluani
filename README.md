@@ -7,6 +7,7 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 
 ## <h1>Tech Stack</h1>
 
+
 **Languages & Markup:**
 ![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js)
 ![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts)
