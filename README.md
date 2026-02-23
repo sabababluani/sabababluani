@@ -71,7 +71,7 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 ## 🔥 Work Experience
 
 ### Frontend Developer | KinoTech (2025 – 2026)
-- Frontend Developer focused on building modern, scalable web applications using Next.js and React. Worked extensively with Server-Side Rendering (SSR), performance optimization, and responsive UI development.
+- Frontend Developer focused on building modern, scalable web applications using **Next.js** and **React**. Worked extensively with Server-Side Rendering (SSR), performance optimization, and responsive UI development.
 - Contributed to the development of a trading CRM system, a streamers platform, and high-conversion landing pages. Worked with production environments, supporting deployments, maintaining live features, and ensuring application stability and performance.
 
 ### FullStack Developer | Novatori - Digital Professions Academy (2023 – 2025)
