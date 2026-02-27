@@ -91,14 +91,14 @@ I'm a passionate Full-Stack Developer based in Tbilisi, Georgia, with expertise 
 - Containerized the platform using Docker & Docker Compose for consistent development and deployment across environments.
 - Leveraged a monorepo architecture (Turborepo + pnpm) to streamline development workflows, code sharing, and CI/CD pipelines.
 
-**⚡ Premium WordPress Hosting Provider**
+**⚡ Premium WordPress Hosting Provider** (Frontend)
 - Developed a multi-tenant, high-performance WordPress hosting platform with Next.js, Chart.js.
 - Serve as Tech Lead for a premium WordPress hosting platform, overseeing a multidisciplinary team including UI/UX designers, backend developers, graphic designers, and marketers.
 - Ensure seamless collaboration across teams to optimize productivity and deliver high-quality solutions.
 - Drive the development of features focused on simplifying WordPress management for users.
 - Implement pixel-perfect designs to ensure the platform matches the exact UI/UX specifications.
   
-**🎵 Music Streaming Website**
+**🎵 Music Streaming Website** (Frontend)
 - Developed the frontened for a Spotify-like music streaming platform.
 - Implemented user authentication, music player playlist and all core music content using middleware, recoil techs.
 - Held responsibility for 50% of the tasks on a musical application, focusing on core development features.
